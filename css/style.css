@@ -1,11 +1,11 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
     box-sizing: border-box;
 }
 h1{
-    color: blue;
+    color: goldenrod;
 }
 p{
-    color: yellowgreen;
+    color: blanchedalmond;
 }   
